@@ -6,8 +6,8 @@
 
 # 소개
 
-3. 사용 언어 : Python
-4. 사용 기술 : Ensemble Retriever based RAG
+1. 사용 언어 : Python
+2. 사용 기술 : Ensemble Retriever based RAG
 
 # 데이터 출처
 
