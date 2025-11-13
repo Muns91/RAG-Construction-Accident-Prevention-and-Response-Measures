@@ -1,6 +1,7 @@
 # 건설공사 사고 예방 및 대응책 생성 RAG 모델
 ![스크린샷 2025-03-26 141155](https://github.com/user-attachments/assets/cbdfbc26-b5c3-4a26-a0a1-3b62b413452d)
 
+#
 <img width="5786" height="3144" alt="그림2" src="https://github.com/user-attachments/assets/8ef00f32-4cfc-450b-84a6-cf2eb96ef188" />
 
 
